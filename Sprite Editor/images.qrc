@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/addItemIcon.png</file>
+        <file>images/addLayerIcon.png</file>
+        <file>images/bucketToolIcon.png</file>
+        <file>images/duplicateItemIcon.png</file>
+        <file>images/duplicateLayerIcon.png</file>
+        <file>images/ellipseToolIcon.png</file>
+        <file>images/eraserToolIcon.png</file>
+        <file>images/lineToolIcon.png</file>
+        <file>images/newIcon.png</file>
+        <file>images/notVisibleIcon.png</file>
+        <file>images/openIcon.png</file>
+        <file>images/penWidthIcon.png</file>
+        <file>images/rectangleToolIcon.png</file>
+        <file>images/removeLayerIcon.png</file>
+        <file>images/saveIcon.png</file>
+        <file>images/scribbleToolIcon.png</file>
+        <file>images/spriteEditorIcon.png</file>
+        <file>images/steganographyInIcon.png</file>
+        <file>images/steganographyOutIcon.png</file>
+        <file>images/transparentBackgroundTexture.png</file>
+        <file>images/trashcanIcon.png</file>
+        <file>images/visibleIcon.png</file>
+        <file>images/zoomFitIcon.png</file>
+        <file>images/zoomInIcon.png</file>
+        <file>images/zoomNormalIcon.png</file>
+        <file>images/zoomOutIcon.png</file>
+    </qresource>
+</RCC>
