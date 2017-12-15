@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/arial.ttf</file>
+        <file>assets/BoggleIcon.png</file>
+        <file>assets/booSound.wav</file>
+        <file>assets/cheerSound.wav</file>
+        <file>assets/intro.webm</file>
+        <file>assets/JhonsonBall_scaled.png</file>
+        <file>assets/level1.mp3</file>
+        <file>assets/level1Background.jpg</file>
+        <file>assets/level2.mp3</file>
+        <file>assets/level2Background.jpg</file>
+        <file>assets/level3.mp3</file>
+        <file>assets/level3Background.jpg</file>
+        <file>assets/LootBox_icon.png</file>
+        <file>assets/mainWindowIcon.png</file>
+        <file>assets/payme.jpg</file>
+        <file>assets/shootSound.wav</file>
+        <file>assets/skins/Basketball_scaled.png</file>
+        <file>assets/skins/Batman_scaled.png</file>
+        <file>assets/skins/DiaDeLosMuertos_scaled.png</file>
+        <file>assets/skins/EA_scaled.png</file>
+        <file>assets/skins/FallCamo_scaled.png</file>
+        <file>assets/skins/Luchadore_scaled.png</file>
+        <file>assets/skins/RedSox_scaled.png</file>
+        <file>assets/skins/Soccerball_scaled.png</file>
+        <file>assets/skins/Spiderball_scaled.png</file>
+        <file>assets/skins/Triforce_scaled.png</file>
+        <file>assets/skins/WinterCamo_scaled.png</file>
+        <file>assets/target.png</file>
+        <file>assets/youtubeIcon.png</file>
+        <file>assets/youtubePlayer.html</file>
+    </qresource>
+</RCC>
